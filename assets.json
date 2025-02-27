@@ -1,0 +1,183 @@
+[
+    {
+      "id": 1,
+      "name": "Azula",
+      "description": "Azula is a prodigious firebender and the cunning princess of the Fire Nation.",
+      "age": 14,
+      "isLegendary": false,
+      "birthdate": "2008-05-30",
+      "image": "https://github.com/AP-G-1PRO-Webontwikkeling/projectopdracht-s117507/blob/main/assets/azula.png?raw=true",
+      "role": "Firebender",
+      "hobbies": ["Firebending", "Strategic Planning", "Duel Combat"],
+      "details": {
+        "id": 101,
+        "skill": "Fire",
+        "powerLevel": 95,
+        "isRoyalty": true,
+        "trainer": "Ozai"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Choso",
+      "description": "Choso is a Death Painting Womb, deeply loyal to his brothers and driven by vengeance.",
+      "age": 150,
+      "isLegendary": true,
+      "birthdate": "1873-09-15",
+      "image": "https://github.com/AP-G-1PRO-Webontwikkeling/projectopdracht-s117507/blob/main/assets/choso.png?raw=true",
+      "role": "Cursed Spirit",
+      "hobbies": ["Blood Manipulation", "Meditation", "Combat"],
+      "details": {
+        "id": 102,
+        "skill": "Blood",
+        "powerLevel": 85,
+        "isRoyalty": false,
+        "trainer": "Kenjaku"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Cinderella",
+      "description": "A kind-hearted young woman whose perseverance leads her to a magical destiny.",
+      "age": 19,
+      "isLegendary": true,
+      "birthdate": "2004-02-14",
+      "image": "https://github.com/AP-G-1PRO-Webontwikkeling/projectopdracht-s117507/blob/main/assets/cinderella.png?raw=true",
+      "role": "Princess",
+      "hobbies": ["Dancing", "Singing", "Sewing"],
+      "details": {
+        "id": 103,
+        "skill": "Magic",
+        "powerLevel": 40,
+        "isRoyalty": true,
+        "trainer": "Fairy Godmother"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Hinata",
+      "description": "A gentle yet determined kunoichi of the Hyuga clan.",
+      "age": 16,
+      "isLegendary": false,
+      "birthdate": "2006-12-27",
+      "image": "https://github.com/AP-G-1PRO-Webontwikkeling/projectopdracht-s117507/blob/main/assets/hinata.png?raw=true",
+      "role": "Shinobi",
+      "hobbies": ["Training", "Tea Ceremony", "Gardening"],
+      "details": {
+        "id": 104,
+        "skill": "Chakra",
+        "powerLevel": 75,
+        "isRoyalty": false,
+        "trainer": "Hiashi Hyuga"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Inumaki",
+      "description": "A quiet but powerful sorcerer who uses Cursed Speech to manipulate his opponents.",
+      "age": 17,
+      "isLegendary": false,
+      "birthdate": "2005-10-23",
+      "image": "https://github.com/AP-G-1PRO-Webontwikkeling/projectopdracht-s117507/blob/main/assets/inumaki.png?raw=true",
+      "role": "Sorcerer",
+      "hobbies": ["Strategy Games", "Martial Arts", "Reading"],
+      "details": {
+        "id": 105,
+        "skill": "Cursed Energy",
+        "powerLevel": 80,
+        "isRoyalty": false,
+        "trainer": "Yaga Masamichi"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Katara",
+      "description": "A skilled waterbender with a strong sense of justice and compassion.",
+      "age": 16,
+      "isLegendary": true,
+      "birthdate": "2006-03-12",
+      "image": "https://github.com/AP-G-1PRO-Webontwikkeling/projectopdracht-s117507/blob/main/assets/katara.png?raw=true",
+      "role": "Waterbender",
+      "hobbies": ["Healing", "Fishing", "Swimming"],
+      "details": {
+        "id": 106,
+        "skill": "Water",
+        "powerLevel": 85,
+        "isRoyalty": false,
+        "trainer": "Pakku"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Lawliet",
+      "description": "A genius detective with an eccentric personality.",
+      "age": 24,
+      "isLegendary": true,
+      "birthdate": "1999-10-31",
+      "image": "https://github.com/AP-G-1PRO-Webontwikkeling/projectopdracht-s117507/blob/main/assets/lawliet.png?raw=true",
+      "role": "Detective",
+      "hobbies": ["Puzzles", "Chess", "Eating Sweets"],
+      "details": {
+        "id": 107,
+        "skill": "Intellect",
+        "powerLevel": 99,
+        "isRoyalty": false,
+        "trainer": "Watari"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Mai & Ty Lee",
+      "description": "Skilled fighters and close allies of Azula.",
+      "age": 16,
+      "isLegendary": false,
+      "birthdate": "2006-07-18",
+      "image": "https://github.com/AP-G-1PRO-Webontwikkeling/projectopdracht-s117507/blob/main/assets/leemai.png?raw=true",
+      "role": "Warriors",
+      "hobbies": ["Acrobatics", "Archery", "Training"],
+      "details": {
+        "id": 108,
+        "skill": "Chi",
+        "powerLevel": 78,
+        "isRoyalty": false,
+        "trainer": "Azula"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Mulan",
+      "description": "A courageous warrior who disguises herself as a man to protect her family.",
+      "age": 20,
+      "isLegendary": true,
+      "birthdate": "2003-06-10",
+      "image": "https://github.com/AP-G-1PRO-Webontwikkeling/projectopdracht-s117507/blob/main/assets/mulan.png?raw=true",
+      "role": "Soldier",
+      "hobbies": ["Horse Riding", "Archery", "Combat Training"],
+      "details": {
+        "id": 109,
+        "skill": "Strength",
+        "powerLevel": 90,
+        "isRoyalty": false,
+        "trainer": "Shang"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Suki",
+      "description": "The skilled leader of the Kyoshi Warriors.",
+      "age": 17,
+      "isLegendary": false,
+      "birthdate": "2005-08-05",
+      "image": "https://github.com/AP-G-1PRO-Webontwikkeling/projectopdracht-s117507/blob/main/assets/suki.png?raw=true",
+      "role": "Warrior",
+      "hobbies": ["Martial Arts", "Tactics", "Leadership"],
+      "details": {
+        "id": 110,
+        "skill": "Agility",
+        "powerLevel": 88,
+        "isRoyalty": false,
+        "trainer": "Kyoshi"
+      }
+    }
+  ]
+  
